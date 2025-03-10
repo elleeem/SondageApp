@@ -9,6 +9,7 @@ C O M M E N T  Ç A  M A R C H E ?
 Un utilisateur doit au préalable créer un compte et se connecter grâce au système d'authentification JWT(Json Web Token).
 Une fois connecté, il peut créer un sondage avec une ou plusieurs questions. Ces questions peuvent être des questions ouvertes ou à choix multiples.
 Un utilisateur peut consulter tous les sondages. Seul le créateur d'un sondage peut le supprimer, le modifier ou modifier les questions et réponses prédéfinies.
+NB: Un sondage doit être unique.
 
 D É V E L O P P E M E N T
 
